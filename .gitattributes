@@ -1,0 +1,4 @@
+data/www.csdn.net.sql filter=lfs diff=lfs merge=lfs -text
+data/csdn.model filter=lfs diff=lfs merge=lfs -text
+data/plaintxt_yahoo.txt filter=lfs diff=lfs merge=lfs -text
+data/yahoo.model filter=lfs diff=lfs merge=lfs -text
